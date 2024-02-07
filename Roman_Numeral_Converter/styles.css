@@ -1,0 +1,49 @@
+body {
+    font-family: 'Castoro Titling', serif;
+    background-color: #1E88E5; /* Blue marine background */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  main {
+    text-align: center;
+  }
+  
+  h1 {
+    color: #fff; /* White text */
+  }
+  
+  form {
+    margin-top: 20px;
+  }
+  
+  label {
+    color: #fff; /* White text */
+  }
+  
+  input {
+    background-color: #000; /* Black background */
+    color: #fff; /* White text */
+    border: none;
+    padding: 8px 16px;
+    border-radius: 5px;
+  }
+  
+  #convert-btn {
+    background-color: #FFA500; /* Orange button */
+    color: #000; /* Black text */
+    border: none;
+    padding: 8px 16px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #output {
+    margin-top: 20px;
+    font-weight: bold;
+    color: #fff; /* White text */
+  }
+  
